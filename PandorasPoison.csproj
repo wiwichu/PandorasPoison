@@ -34,7 +34,9 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="ppmanuscript.docx" />
+    <None Include="ppmanuscript_psliterary_20160703.docx" />
     <None Include="ppquery.docx" />
+    <None Include="ppquery_psliterary_20160703.docx" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
