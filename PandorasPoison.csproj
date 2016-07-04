@@ -33,10 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="jhawkins\ppjhawkins3pages.docx" />
+    <None Include="jhawkins\ppquery_jhawkins_20160704.docx" />
     <None Include="ppmanuscript.docx" />
-    <None Include="ppmanuscript_psliterary_20160703.docx" />
+    <None Include="psliterary\ppmanuscript_psliterary_20160703.docx" />
     <None Include="ppquery.docx" />
-    <None Include="ppquery_psliterary_20160703.docx" />
+    <None Include="psliterary\ppquery_psliterary_20160703.docx" />
     <None Include="ppsynopsis.docx" />
   </ItemGroup>
   <ItemGroup>
