@@ -34,9 +34,9 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="congdon\ppquery_congdon_20160704.docx" />
-    <None Include="jhawkins\ppjhawkins3pages.docx" />
-    <None Include="jhawkins\ppquery_jhawkins_20160704.docx" />
-    <None Include="jillmarsal\ppquery_jmarsal_20160708.docx" />
+    <None Include="jhawkins_no\ppjhawkins3pages.docx" />
+    <None Include="jhawkins_no\ppquery_jhawkins_20160704.docx" />
+    <None Include="jillmarsal_no\ppquery_jmarsal_20160708.docx" />
     <None Include="ppmanuscript.docx" />
     <None Include="psliterary\ppmanuscript_psliterary_20160703.docx" />
     <None Include="ppquery.docx" />
