@@ -39,11 +39,12 @@
     <None Include="jhawkins_no\ppjhawkins3pages.docx" />
     <None Include="jhawkins_no\ppquery_jhawkins_20160704.docx" />
     <None Include="jillmarsal_no\ppquery_jmarsal_20160708.docx" />
-    <None Include="MarkFalkin\ppmanuscript_first2chapters_20160727.docx" />
-    <None Include="MarkFalkin\ppquery.docx" />
+    <None Include="MarkFalkin_no\ppmanuscript_first2chapters_20160727.docx" />
+    <None Include="MarkFalkin_no\ppquery.docx" />
     <None Include="MichelleBrower\ppmanuscript_first50_20160727.docx" />
     <None Include="PeterKnapp\ppmanuscript_first5_20160727.docx" />
     <None Include="PeterKnapp\ppquery.docx" />
+    <None Include="pokemongone\manuscript.docx" />
     <None Include="ppmanuscript.docx" />
     <None Include="psliterary\ppmanuscript_psliterary_20160703.docx" />
     <None Include="ppquery.docx" />
