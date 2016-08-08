@@ -35,6 +35,7 @@
   <ItemGroup>
     <None Include="AnnCollette\ppmanuscript_firstChapter_20160727.docx" />
     <None Include="AnnCollette\ppquery.docx" />
+    <None Include="brilliantflash\stuffedchicken.docx" />
     <None Include="congdon\ppquery_congdon_20160704.docx" />
     <None Include="jhawkins_no\ppjhawkins3pages.docx" />
     <None Include="jhawkins_no\ppquery_jhawkins_20160704.docx" />
