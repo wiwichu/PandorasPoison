@@ -59,6 +59,8 @@
     <None Include="psliterary\ppquery_psliterary_20160703.docx" />
     <None Include="ppsynopsis.docx" />
     <None Include="rgalen\ppquery_rgalen_20160708.docx" />
+    <None Include="ScottMiller\ppquery.docx" />
+    <None Include="ScottMiller\ppsynopsis.docx" />
     <None Include="shortstories\fielddressed.docx" />
     <None Include="uwestender\ppquery.docx" />
   </ItemGroup>
