@@ -33,10 +33,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="AnnCollette\ppmanuscript_firstChapter_20160727.docx" />
-    <None Include="AnnCollette\ppquery.docx" />
+    <None Include="AnnCollette_no\ppmanuscript_firstChapter_20160727.docx" />
+    <None Include="AnnCollette_no\ppquery.docx" />
     <None Include="brilliantflash\stuffedchicken.docx" />
     <None Include="congdon\ppquery_congdon_20160704.docx" />
+    <None Include="ethanellenberg\ppmanuscript_first50.docx" />
+    <None Include="ethanellenberg\ppquery.docx" />
+    <None Include="ethanellenberg\ppsynopsis.docx" />
     <None Include="jhawkins_no\ppjhawkins3pages.docx" />
     <None Include="jhawkins_no\ppquery_jhawkins_20160704.docx" />
     <None Include="jillmarsal_no\ppquery_jmarsal_20160708.docx" />
@@ -52,6 +55,7 @@
     <None Include="psliterary\ppquery_psliterary_20160703.docx" />
     <None Include="ppsynopsis.docx" />
     <None Include="rgalen\ppquery_rgalen_20160708.docx" />
+    <None Include="shortstories\fielddressed.docx" />
     <None Include="uwestender\ppquery.docx" />
   </ItemGroup>
   <ItemGroup>
